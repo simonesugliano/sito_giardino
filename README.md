@@ -52,6 +52,7 @@ Il progetto è stato pianificato in anticipo e documentato con:
 Wireframe realizzati in Figma per definire layout e distribuzione dei contenuti
 
 Schema di collegamenti interni per visualizzare le connessioni tra le pagine e le possibili uscite dal sito<br><br>
+[![Wireframe desktop](wireframeGiardino.png)](wireframeGiardino.png)
 
 
 <b>Come visualizzarlo</b><br><br>
