@@ -53,7 +53,7 @@ Wireframe realizzati in Figma per definire layout e distribuzione dei contenuti
 
 Schema di collegamenti interni per visualizzare le connessioni tra le pagine e le possibili uscite dal sito<br><br>
 
-[![Wireframe desktop](wireframeGiardino.png)](wireframeGiardino.png)  <br><br>
+[![Wireframe desktop]([wireframeGiardino.png](https://github.com/simonesugliano/sito_giardino/blob/main/wireframe%20%26%20schema%20sito/wireframeGiardino.png))]([wireframeGiardino.png](https://github.com/simonesugliano/sito_giardino/blob/main/wireframe%20%26%20schema%20sito/wireframeGiardino.png))  <br><br>
 
 <b>Come visualizzarlo</b><br><br>
 Accedi al sito online: https://supermegaprovesito.altervista.org
