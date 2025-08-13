@@ -50,6 +50,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **Easy Social Icons** – Icone social media
 - **MC4WP: Mailchimp for WordPress** – Gestione di moduli di iscrizione
 - **WP-Members** – Creazione e gestione aree riservate, accessi ed iscrizioni al sito
+- **Spectra** – Elementi Wordpress
   
 ---
 
@@ -61,7 +62,9 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ---
 
 ## Anteprima del sito
+###Qui vedi l'impostazione della home page.
 ![Homepage del sito](home-page-full.png)
+###Qui vedi il menu delle sottovoci della navbar
 ![Pagina progetto](/img/sottosezioni-percorso.png)
 
 ---
@@ -76,6 +79,6 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ---
 
 ## Link al sito
-[Visita il sito online](https://supermegaprovasito.altervista.org)
+[Visita il sito online](https://supermegaprovesito.altervista.org)
 
 
