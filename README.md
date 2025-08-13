@@ -61,7 +61,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ---
 
 ## Anteprima del sito
-![Homepage del sito](screenshot-home.png)
+![Homepage del sito](home-page-full.png)
 ![Pagina progetto](screenshot-progetto.png)
 
 ---
