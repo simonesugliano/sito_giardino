@@ -5,7 +5,7 @@
 
 # Sito giardino
 
-##Esercizio di Stile Front-End
+## Esercizio di Stile Front-End
 
 ## Link al sito
 [Visita il sito online](https://supermegaprovesito.altervista.org)
@@ -41,7 +41,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 
 ## Tecnologie utilizzate
 - **WordPress** – Gestione contenuti e struttura base
-- **HTML5** – Personalizzazioni minime per migliorare il tema e l’esperienza utente
+- **HTML5** – Personalizzazioni per migliorare il tema e l’esperienza utente
   [Visualizza l'HTML personalizzato](html-personalizzato-wp.html)
 - **CSS3** – Stile e personalizzazione grafica avanzata
   [Visualizza il CSS personalizzato](css-personalizzato-wp.css)
@@ -58,7 +58,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **Easy Social Icons** – Icone social media
 - **MC4WP: Mailchimp for WordPress** – Gestione di moduli di iscrizione
 - **WP-Members** – Creazione e gestione aree riservate, accessi ed iscrizioni al sito
-- **Spectra** – Elementi Wordpress
+- **Spectra** – Elementi WordPress
   
 ---
 
@@ -76,17 +76,17 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ![Homepage del sito](/img/home-page-full1.png)
 
 ---
-### Qui vedi il menu delle sottovoci all'interno della navbar <br><br>
+###  Menu a tendina (sottovoci navbar) <br><br>
 
 ![Pagina progetto](/img/sottosezioni-percorso.png)
 
 ---
-### Quivedi il menu delle sottosezioni di login e accesso all'area riservata
+### Area riservata: login e registrazione
 
 ![moduli di contatto](/img/accedi.png)
 
 ---
-### Qui mostro i moduli di iscrizione e contatto presenti
+### Moduli: iscrizione e contatto
 
 ![moduli di contatto](/img/form1.png)
 
