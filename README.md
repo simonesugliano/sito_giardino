@@ -48,7 +48,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **MC4WP: Mailchimp for WordPress** – Gestione di moduli di iscrizione
 - **WP-Members** – Creazione e gestione aree riservate, accessi ed iscrizioni al sito
   
----
+------
 
 ## Struttura del repository
 - `README.md` → Documentazione del progetto
