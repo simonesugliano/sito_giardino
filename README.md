@@ -65,12 +65,14 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ---
 
 ## Anteprima del sito
+
 ### Qui vedi l'impostazione della home page. <br><br>
 
 ![Homepage del sito](home-page-full.png)
 
 ---
 ### Qui vedi il menu delle sottovoci all'interno della navbar <br><br>
+
 ![Pagina progetto](/img/sottosezioni-percorso.png)
 
 ---
