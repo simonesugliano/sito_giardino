@@ -34,6 +34,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **WordPress** – Gestione contenuti e struttura base
 - **HTML5** – Personalizzazioni minime per migliorare il tema e l’esperienza utente
 - **CSS3** – Stile e personalizzazione grafica avanzata
+  [Visualizza il CSS personalizzato](css-personalizzato-wp.css)
 - **Responsive Design** – Media queries per diversi breakpoint
 - **SEO base** – Struttura di tag, meta tag e testi ottimizzati
 
@@ -48,7 +49,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **MC4WP: Mailchimp for WordPress** – Gestione di moduli di iscrizione
 - **WP-Members** – Creazione e gestione aree riservate, accessi ed iscrizioni al sito
   
-------
+---
 
 ## Struttura del repository
 - `README.md` → Documentazione del progetto
