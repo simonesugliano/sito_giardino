@@ -24,7 +24,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 
 ## Obiettivi del progetto
 - Realizzare un sito multi-pagina con layout responsive per desktop, tablet e smartphone
-  [vedi display sito](img/display.png)
+  ![vedi display sito](img/display.png)
 - Applicare tecniche di SEO base per migliorarne la reperibilità
 - Creare una navigazione fluida e un design chiaro e ordinato
 - Dimostrare capacità di personalizzazione di temi WordPress intervenendo con HTML e CSS
@@ -34,7 +34,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ## Tecnologie utilizzate
 - **WordPress** – Gestione contenuti e struttura base
 - **HTML5** – Personalizzazioni minime per migliorare il tema e l’esperienza utente
-  ![Visualizza l'HTML personalizzato](html-personalizzato-wp.html)
+  [Visualizza l'HTML personalizzato](html-personalizzato-wp.html)
 - **CSS3** – Stile e personalizzazione grafica avanzata
   [Visualizza il CSS personalizzato](css-personalizzato-wp.css)
 - **Responsive Design** – Media queries per diversi breakpoint
