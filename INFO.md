@@ -1,6 +1,6 @@
-##Info aggiuntive – Utilizzo WordPress
+## Info aggiuntive – Utilizzo WordPress
 
-###Tecniche, difficoltà riscontrate e altre meraviglie
+### Tecniche, difficoltà riscontrate e altre meraviglie
 ---
 Il progetto Sito Giardino nasce durante il corso di Sviluppo Front-End in presenza da 260 ore.
 Nella fase dedicata a WordPress, ho potuto sperimentare in prima persona l’intero flusso di lavoro, partendo dalla progettazione fino alla messa online.
