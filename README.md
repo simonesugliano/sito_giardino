@@ -53,6 +53,9 @@ Wireframe realizzati in Figma per definire layout e distribuzione dei contenuti
 
 Schema di collegamenti interni per visualizzare le connessioni tra le pagine e le possibili uscite dal sito<br><br>
 
+[📄 Scarica il wireframe](wireframe_flusso.png)
+
+
   <br><br>
 
 <b>Come visualizzarlo</b><br><br>
