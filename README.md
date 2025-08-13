@@ -1,3 +1,7 @@
+
+![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white&style=for-the-badge)
+![CSS Custom](https://img.shields.io/badge/CSS-Custom-green?logo=css3&logoColor=white&style=for-the-badge)
+
 # Sito giardino
 
 ##Esercizio di Stile Front-End
