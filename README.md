@@ -1,6 +1,6 @@
 # Sito giardino
 
-Esercizio di Stile Front-End
+##Esercizio di Stile Front-End
 
 Descrizione
 Questo progetto è un esercizio di stile pensato per dimostrare le mie competenze come sviluppatore front-end, utilizzando come base WordPress.
@@ -13,7 +13,7 @@ Il tema scelto è stato completamente ridotto e adattato alle mie esigenze:
 
 Non si tratta di un sito commerciale di progettazione giardini, ma di un lavoro tecnico mirato a mostrare familiarità con WordPress e con il codice che sta dietro, unendo aspetti di design, navigazione e struttura.
 
-I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artificiale, poi rivisti e armonizzati secondo le mie conoscenze dell'argomento. Questo mi ha permesso di concentrare il lavoro su:
+I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artificiale, poi rivisti e armonizzati secondo le mie conoscenze sull'argomento. Questo mi ha permesso di concentrare il lavoro su:
 
 - Struttura e navigazione
 - Coerenza visiva
@@ -43,8 +43,11 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **Yoast SEO** – Strumenti per ottimizzazione SEO on-page
 - **Contact Form 7** – Gestione di moduli di contatto personalizzati
 - **Classic Widgets** – Gestione tradizionale dei widget
-- *(aggiungi qui eventuali altri plugin)*
-
+- **Content Aware Sidebars** – Gestione sidebars
+- **Easy Social Icons** – Icone social media
+- **MC4WP: Mailchimp for WordPress** – Gestione di moduli di iscrizione
+- **WP-Members** – Creazione e gestione aree riservate, accessi ed iscrizioni al sito
+  
 ---
 
 ## Struttura del repository
@@ -62,7 +65,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 
 ## Come replicare il progetto
 1. Installare WordPress
-2. Installare il tema base utilizzato (Twenty Twenty-Three o equivalente)
+2. Installare il tema base utilizzato (Ignite o equivalente)
 3. Installare i plugin indicati sopra
 4. Aggiungere il CSS personalizzato presente in `css-personalizzato-wp.css` nella sezione **Aspetto → Personalizza → CSS aggiuntivo**
 5. Personalizzare i contenuti e le immagini
@@ -72,6 +75,4 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ## Link al sito
 [Visita il sito online](https://supermegaprovasito.altervista.org)
 
----
 
-📌 *Questo repository GitHub è pensato per visualizzare file e documentazione del progetto.*
