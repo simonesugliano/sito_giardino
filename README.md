@@ -78,7 +78,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ---
 ### Qui mostro i moduli di iscrizione e contatto presenti
 
-![moduli di contatto](/img/form.png)
+![moduli di contatto](/img/form1.png)
 ## Come replicare il progetto
 1. Installare WordPress
 2. Installare il tema base utilizzato (Ignite o equivalente)
