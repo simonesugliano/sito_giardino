@@ -1,7 +1,7 @@
 
-##Info aggiuntive – Personalizzazione CSS
+## Info aggiuntive – Personalizzazione CSS
 
-###Tecniche, difficoltà riscontrate e altre meraviglie
+### Tecniche, difficoltà riscontrate e altre meraviglie
 
 ---
 
