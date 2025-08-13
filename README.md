@@ -25,6 +25,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 ## Obiettivi del progetto
 - Realizzare un sito multi-pagina con layout responsive per desktop, tablet e smartphone
 - <a href="img/home320px.png" target="_blank">vedi Home 320px</a>
+<a href="https://github.com/TUOUSER/TUOREPO/blob/main/img/home320px.png?raw=true" target="_blank">vedi Home 320px</a>
 
   [vedi Home 320px](img/home320px.png)
 - Applicare tecniche di SEO base per migliorarne la reperibilità
