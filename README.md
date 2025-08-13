@@ -24,7 +24,9 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 
 ## Obiettivi del progetto
 - Realizzare un sito multi-pagina con layout responsive per desktop, tablet e smartphone
-  [vedi Home 320px](img/home320px.png){:target="_blank"}
+- <a href="img/home320px.png" target="_blank">vedi Home 320px</a>
+
+  [vedi Home 320px](img/home320px.png)
 - Applicare tecniche di SEO base per migliorarne la reperibilità
 - Creare una navigazione fluida e un design chiaro e ordinato
 - Dimostrare capacità di personalizzazione di temi WordPress intervenendo con HTML e CSS
