@@ -32,7 +32,9 @@ Applicare tecniche di SEO base per migliorare la reperibilità
 
 Creare una navigazione fluida e un design chiaro e ordinato
 
-Dimostrare capacità di personalizzazione di temi WordPress intervenendo con HTML e CSS<br><br>
+Dimostrare capacità di personalizzazione di temi WordPress intervenendo con HTML e CSS <br>
+[Visualizza il CSS personalizzato](css-personalizzato-wp.css)
+<br><br>
 
 <b>Tecnologie utilizzate</b><br><br>
 
