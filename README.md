@@ -1,6 +1,6 @@
 
 [![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white&style=for-the-badge)](INFO.md)
-[![CSS Custom](https://img.shields.io/badge/CSS-Custom-green?logo=css3&logoColor=white&style=for-the-badge)](INFO.md)
+[![CSS Custom](https://img.shields.io/badge/CSS-Custom-green?logo=css3&logoColor=white&style=for-the-badge)](INFO1.md)
 
 
 # Sito giardino
