@@ -34,8 +34,6 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 - **WordPress** – Gestione contenuti e struttura base
 - **HTML5** – Personalizzazioni minime per migliorare il tema e l’esperienza utente
   [Visualizza l'HTML personalizzato](html-personalizzato-wp.html)
-  ![Pulsante Scarica manuale di potatura](img/screen-pulsante-html.png?raw=1)
-
 - **CSS3** – Stile e personalizzazione grafica avanzata
   [Visualizza il CSS personalizzato](css-personalizzato-wp.css)
 - **Responsive Design** – Media queries per diversi breakpoint
