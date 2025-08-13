@@ -68,7 +68,7 @@ I contenuti testuali sono stati creati con il supporto dell'Intelligenza Artific
 
 ### Qui vedi l'impostazione della home page. <br><br>
 
-![Homepage del sito](home-page-full1.png)
+![Homepage del sito](/img/home-page-full1.png)
 
 ---
 ### Qui vedi il menu delle sottovoci all'interno della navbar <br><br>
