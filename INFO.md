@@ -12,4 +12,4 @@ Una volta impostato il progetto, ho scelto il tema da utilizzare, cercando il gi
 
 L’integrazione dell’HTML ha permesso di migliorare la chiarezza visiva e dare coerenza alle varie parti del sito, fino ad arrivare al risultato finale desiderato: una homepage funzionale, pagine interne ben strutturate e una navigazione intuitiva, in linea con l’idea iniziale del progetto.
 
-Attualmente il layout risulta stabile e coerente su tutti i dispositivi, anche se la gestione dello zoom presenta ancora qualche limite ereditato dal tema: un aspetto che ho imparato ad affrontare meglio nei progetti successivi, e che ho già in programma di sistemare anche qui con interventi mirati su CSS e struttura, non appena mi sarà possibile come tempo.
+Attualmente il layout è stabile e coerente su tutti i dispositivi. In fase iniziale si presentavano alcune difficoltà nella gestione dello zoom, dovute a limiti del tema utilizzato, ma **ho risolto il problema con uno script personalizzato in WordPress**. In futuro ho comunque in programma ulteriori interventi mirati su CSS e struttura per ottimizzare ancora di più l’esperienza utente.
